@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
+| [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -42,8 +43,13 @@
 |  |
 | ------- |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+| [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
