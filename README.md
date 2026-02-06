@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -34,6 +35,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -42,11 +44,13 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 ## Monotonic Stack
 |  |
