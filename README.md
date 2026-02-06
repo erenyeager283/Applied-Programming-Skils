@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 ## Math
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
