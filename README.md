@@ -66,6 +66,7 @@
 | [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,8 +104,13 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
