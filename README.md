@@ -31,6 +31,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 ## Stack
 |  |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
