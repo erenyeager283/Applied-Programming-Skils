@@ -58,6 +58,7 @@
 | [0344-reverse-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+| [3110-score-of-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
