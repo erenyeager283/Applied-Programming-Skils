@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
