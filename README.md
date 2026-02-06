@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
@@ -63,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
