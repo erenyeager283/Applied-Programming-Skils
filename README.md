@@ -6,6 +6,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1480-running-sum-of-1d-array) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
