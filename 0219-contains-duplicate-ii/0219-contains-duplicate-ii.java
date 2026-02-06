@@ -6,12 +6,10 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             if (map.containsKey(nums[i])) {
-                int prevIndex = map.get(nums[i]);
-                if (i - prevIndex <= k) {
+                if (i - map.get(nums[i]) <= k) {
                     return true;
                 }
             }
-            // Update the last seen index
             map.put(nums[i], i);
         }
         return false;
