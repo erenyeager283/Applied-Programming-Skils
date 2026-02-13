@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
@@ -39,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 ## Math
 |  |
@@ -70,6 +72,7 @@
 | [0020-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
@@ -84,6 +87,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
