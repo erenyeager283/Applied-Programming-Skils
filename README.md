@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
@@ -124,6 +126,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
 ## Data Stream
 |  |
