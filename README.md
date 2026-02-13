@@ -65,6 +65,7 @@
 | [0344-reverse-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3110-score-of-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
@@ -77,6 +78,7 @@
 | [0739-daily-temperatures](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
