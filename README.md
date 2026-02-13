@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 | [3110-score-of-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +130,7 @@
 | [0155-min-stack](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -143,4 +148,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 <!---LeetCode Topics End-->
