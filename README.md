@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
 | [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Hash Table
@@ -47,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
 | [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Math
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -156,6 +160,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -189,4 +194,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
