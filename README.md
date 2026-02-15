@@ -132,6 +132,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -146,6 +147,7 @@
 | [0622-design-circular-queue](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0933-number-of-recent-calls) |
 | [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Simulation
 |  |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
