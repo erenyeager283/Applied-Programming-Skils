@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0621-task-scheduler) |
 | [0736-parse-lisp-expression](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0736-parse-lisp-expression) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1348-tweet-counts-per-frequency](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/1348-tweet-counts-per-frequency) |
 ## Math
 |  |
@@ -188,12 +190,14 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,4 +229,5 @@
 | [0101-symmetric-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/erenyeager283/Applied-Programming-Skils/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
